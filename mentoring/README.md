@@ -48,7 +48,6 @@ it's necessary to keep a continuous pipeline of quality contributors and we want
 ## Archive
 - [Mentoring Programs](/mentoring/programs/archive/README.md)
 
-
 Please reach out to #sig-contribex on slack or come to a mentoring meeting to get involved in planning //TODO add contribex README when this is updated
 
 
